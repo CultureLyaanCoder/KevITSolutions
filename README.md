@@ -1,5 +1,3 @@
-Sure, here’s a clear, professional README statement tailored for your **KevITSolutions** repo — highlighting your experience and what this repo is about:
-
 ```markdown
 # KevITSolutions
 
