@@ -1,1 +1,1 @@
-{"routes":[],"auth":{"rolesSource":"https://blue-flower-0ccb93d1e.2.azurestaticapps.net/api/GetRoles","identityProviders":{"facebook":{"registration":{"clientIdSettingName":"FACEBOOK_APP_ID","clientSecretSettingName":"FACEBOOK_APP_SECRET_APP_SETTING_NAME"}}}}}
+{"routes":[],"auth":{"rolesSource":"https://blue-flower-0ccb93d1e.2.azurestaticapps.net/.auth/login/facebook/callback","identityProviders":{"facebook":{"registration":{"clientIdSettingName":"FACEBOOK_APP_ID","clientSecretSettingName":"FACEBOOK_APP_SECRET_APP_SETTING_NAME"}}}}}
